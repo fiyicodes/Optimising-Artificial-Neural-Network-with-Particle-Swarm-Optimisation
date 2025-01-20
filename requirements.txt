@@ -1,0 +1,7 @@
+Flask
+Flask-WTF
+bootstrap-flask
+numpy
+pandas
+scikit-learn
+matplotlib
